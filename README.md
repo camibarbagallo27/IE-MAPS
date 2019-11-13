@@ -24,7 +24,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 <a name="contributing"/>
 
 ## Contributing
-If you are willing to contribute to our project, please feel free to contact with us with through any of the following email addresses:
+If you are willing to contribute to our project, please feel free to contact with us through any of the following email addresses:
 
 cbarbagallo.ieu2017@student.ie.edu
 
