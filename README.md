@@ -3,22 +3,21 @@
 IE Maps is all about solving the issue of when new students get to IE or when they have to go to another building. IE Maps lets the user input what they are looking for and indicates in which floor the thing they are looking for is. It also shows how to get to one building to another. 
 ## Table of Contents 
 [Installation](#installation)  
-[Emphasis](#emphasis)   
-
-
-
-
-
-
-
-
+[Usage](#usage) 
+[Contributing](#contributing) 
+[Credits](#credits)
+[License](#license) 
 
 
 <a name="installation"/>
 
 ## Installation
 
+<a name="usage"/>
+
 ## Usage
+
+<a name="contributing"/>
 
 ## Contributing
 If you are willing to contribute to our project, please feel free to contact with us with through any of the following email addresses:
@@ -27,6 +26,9 @@ pgarcia.ieu2018@student.ie.edu
 ovall.ieu2018@student.ie.edu
 jmaroto.ieu2018@student.ie.edu
 rgonzalez.ieu2018@student.ie.edu
+
+<a name="credits"/>
+
 ## Credits
 ### Camila Barbagallo 
    Camila Barbagallo has previous experience creating an ice cream delivery company. To create this business, she developed a marketing plan starting with consumer and market research. Camila also was for two years the national society treasurer or financial representative. Through this, she learned how to handle money for an entire organization, organize events, relationships with potential events to collect money etcetera. We trust she will be more than capable of dealing with the company’s finances.
@@ -38,6 +40,8 @@ rgonzalez.ieu2018@student.ie.edu
   Joaquin Maroto Pascual has much experience in volunteering, where he has learned to seek creative solutions for problems. He has worked hand in hand with African Impact as a Data Analyst Intern looking for solutions to conserve the fauna and flora of Unguja, Zanzibar and has also helped to preserve endangered species in Australia and optimized food outreach. With all his experience, we are sure he will be more than capable of fulfilling his position as Creative Director.
 ### Oriol Vall Serras
   Oriol Vall Serras has previous experience in persuading people to contribute to some projects. He has collaborated with Adecco, convincing people to donate food for the people in need. Also with previous experience in creating a startup, where he was in charge of convincing the investors to invest in their award-winning project, we are sure his position as Sales Director is more than suited to his profile.
+
+<a name="license"/>
 
 ## License
 MIT License
