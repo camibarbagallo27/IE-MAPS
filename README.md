@@ -1,6 +1,6 @@
 # Algorithms-Project
 # IE Maps
-IE Maps is all about solving the issue of when new students get to IE or when they have to go to another building. IE Maps lets the user input what they are looking for and indicates in which floor the thing they are looking for is. It also shows how to get to one building to another. This is pur MVP, meaning only the PV building works.
+IE Maps is all about solving the issue of when new students get to IE or when they have to go to another building. IE Maps lets the user input what they are looking for and indicates in which floor the thing they are looking for is. It also shows how to get to one building to another. 
 ## Table of Contents
 
 ## Installation
