@@ -1,13 +1,30 @@
 # Algorithms-Project
 # IE Maps
 IE Maps is all about solving the issue of when new students get to IE or when they have to go to another building. IE Maps lets the user input what they are looking for and indicates in which floor the thing they are looking for is. It also shows how to get to one building to another. 
-## Table of Contents
+## Table of Contents 
+[Headers](#headers)  
+[Emphasis](#emphasis)   
 
+
+
+
+<a name="headers"/>
+
+
+
+
+## Headers
 ## Installation
 
 ## Usage
 
 ## Contributing
+If you are willing to contribute to our project, please feel free to contact with us with through any of the following email addresses:
+cbarbagallo.ieu2017@student.ie.edu
+pgarcia.ieu2018@student.ie.edu
+ovall.ieu2018@student.ie.edu
+jmaroto.ieu2018@student.ie.edu
+rgonzalez.ieu2018@student.ie.edu
 ## Credits
 ### Camila Barbagallo 
    Camila Barbagallo has previous experience creating an ice cream delivery company. To create this business, she developed a marketing plan starting with consumer and market research. Camila also was for two years the national society treasurer or financial representative. Through this, she learned how to handle money for an entire organization, organize events, relationships with potential events to collect money etcetera. We trust she will be more than capable of dealing with the company’s finances.
@@ -23,7 +40,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 ## License
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) [2019] [IE Maps]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
