@@ -2,11 +2,15 @@
 # IE Maps
 IE Maps is all about solving the issue of when new students get to IE or when they have to go to another building. IE Maps lets the user input what they are looking for and indicates in which floor the thing they are looking for is. It also shows how to get to one building to another. 
 ## Table of Contents 
-[Installation](#installation)  /n
-[Usage](#usage) /n
-[Contributing](#contributing) /n
-[Credits](#credits)/n
-[License](#license) /n
+[Installation](#installation)  
+
+[Usage](#usage) 
+
+[Contributing](#contributing) 
+
+[Credits](#credits)
+
+[License](#license) 
 
 
 <a name="installation"/>
@@ -22,9 +26,13 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 ## Contributing
 If you are willing to contribute to our project, please feel free to contact with us with through any of the following email addresses:
 cbarbagallo.ieu2017@student.ie.edu
+
 pgarcia.ieu2018@student.ie.edu
+
 ovall.ieu2018@student.ie.edu
+
 jmaroto.ieu2018@student.ie.edu
+
 rgonzalez.ieu2018@student.ie.edu
 
 <a name="credits"/>
