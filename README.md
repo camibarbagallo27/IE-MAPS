@@ -13,8 +13,9 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 
 
-## Headers
+
 <a name="installation"/>
+
 ## Installation
 
 ## Usage
