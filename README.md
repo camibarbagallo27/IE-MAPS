@@ -17,9 +17,20 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 ## Installation
 
+Clone or download our .py. Open the terminal and indicate where the .py document is. 
+
+Press enter and write py IEMaps.py. 
+
+Now start using our program!
+
 <a name="usage"/>
 
 ## Usage
+
+Please take into account this is an MVP, when selecting the building you are in please indicate PV as it is the only one working, if you select another one this message will come up: "Sorry building not available at the moment".
+
+If you want to know how to go from one building to another, the image with the directions will be saved to your computer in the same file as you have our repository.
+
 
 <a name="contributing"/>
 
