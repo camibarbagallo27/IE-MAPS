@@ -36,7 +36,7 @@ If you want to know how to go from one building to another, the image with the d
 <a name="contributing"/>
 
 ## Contributing
-If you are willing to contribute to our project, please feel free to contact with us through any of the following email addresses:
+If you are willing to contribute to our project, please feel free to contact us through any of the following email addresses:
 
 cbarbagallo.ieu2017@student.ie.edu
 
