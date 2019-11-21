@@ -21,8 +21,20 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 2. Download pycharm, choose the Community download. (https://www.jetbrains.com/pycharm/download/#section=mac).
 
-3. Open terminal within your MAC:
+3. Open terminal within your laptop:
    1. Indicate where you have saved the folder by typing: cd  ~/Downloads/IEMAPS (or folder where you have the folder) and then press ENTER
+   2. To open the file type: python IEMAPS.py and then press enter
+
+5. Now start using our program!
+
+### Windows:
+
+1. Clone or download our repository. 
+
+2. Download anaconda, choose the latest download. (https://www.anaconda.com/distribution/)
+
+3. Open anaconda prompt:
+   1. Indicate where you have saved the folder by typing: CD C:\Users\Username\Downloads\IEMAPS (document path) and then press         ENTER
    2. To open the file type: python IEMAPS.py and then press enter
 
 5. Now start using our program!
