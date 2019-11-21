@@ -22,7 +22,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 2. Download pycharm, choose the Community download. (https://www.jetbrains.com/pycharm/download/#section=mac).
 
 3. Open terminal within your MAC:
-   1. Indicate where you have saved the file by typing: cd  ~/Downloads (or folder where you have the file) and then press           ENTER
+   1. Indicate where you have saved the file by typing: cd  ~/Downloads/IEMAPS (or folder where you have the file) and then press ENTER
    2. To open the file type: python IEMAPS.py and then press enter
 
 5. Now start using our program!
