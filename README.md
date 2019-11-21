@@ -18,11 +18,13 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. 
 
-2. Open the terminal and indicate where you saved the repository. 
+2. Download pycharm.
 
-3. Press enter and write: python IEMaps.py. 
+3. Open the terminal and indicate where you saved the repository. 
 
-4. Now start using our program!
+4. Press enter and write: python IEMaps.py. 
+
+5. Now start using our program!
 
 <a name="usage"/>
 
