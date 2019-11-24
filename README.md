@@ -33,12 +33,12 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
-2. Download and install anaconda, choose the latest download. (https://www.anaconda.com/distribution/).
+2. Download and install anaconda, choose the latest download and keep the default options. (https://www.anaconda.com/distribution/).
 
 3. Unzip our repository.
 
 4. Open anaconda prompt:
-   1. Indicate where you have saved the folder by typing: CD C:\Users\Username\Downloads\IE-Maps-master\IEMAPS (document path)         and then press ENTER
+   1. Indicate where you have saved the folder by typing: cd C:\Users\Username(insert your username)\Downloads\IE-Maps-                master\IEMAPS (document path) and then press ENTER
    2. To open the file type: python IEMAPS.py and then press ENTER
 
 5. Now start using our program!
