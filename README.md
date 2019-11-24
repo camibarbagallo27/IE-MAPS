@@ -17,9 +17,9 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 ## Installation
 ### Mac:
 
-1. Clone or download our repository. 
+1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP".
 
-2. Download and install pycharm, choose the Community download. (https://www.jetbrains.com/pycharm/download/#section=mac).
+2. Download and install python version 3.8.0. (https://www.python.org/downloads/mac-osx/).
 
 3. Unzip our repository.
 
@@ -31,7 +31,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 ### Windows:
 
-1. Clone or download our repository. 
+1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP".
 
 2. Download and install anaconda, choose the latest download. (https://www.anaconda.com/distribution/).
 
