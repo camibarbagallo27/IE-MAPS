@@ -17,7 +17,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 ## Installation
 ### Mac:
 
-1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP".
+1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
 2. Download and install python version 3.8.0. (https://www.python.org/downloads/mac-osx/).
 
@@ -31,7 +31,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 ### Windows:
 
-1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP".
+1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
 2. Download and install anaconda, choose the latest download. (https://www.anaconda.com/distribution/).
 
@@ -47,9 +47,9 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 ## Usage
 
-Please take into account this is an MVP, when selecting the building you are in please indicate PV as it is the only one working, if you select another one this message will come up: "Sorry building not available at the moment".
+Please, take into account this is an MVP, when selecting the building you are in please indicate PV as it is the only one working, if you select another one this message will come up: "Sorry building not available at the moment".
 
-If you want to know how to go from one building to another, the image with the directions will be saved to your computer in a new file named MAPS inside the file of our repository.
+If you want to know how to go from one building to another, the image with the directions will be saved to your computer in a new file named MAPS inside the folder of our repository.
 
 
 <a name="contributing"/>
