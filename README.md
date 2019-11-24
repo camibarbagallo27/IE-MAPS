@@ -19,9 +19,11 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. 
 
-2. Download pycharm, choose the Community download. (https://www.jetbrains.com/pycharm/download/#section=mac).
+2. Download and install pycharm, choose the Community download. (https://www.jetbrains.com/pycharm/download/#section=mac).
 
-3. Open terminal within your laptop:
+3. Unzip our repository.
+
+4. Open terminal within your laptop:
    1. Indicate where you have saved the folder by typing: cd ~/Downloads/IE-Maps-master/IEMAPS (or folder where you have the           folder) and then press ENTER
    2. To open the file type: python IEMAPS.py and then press ENTER
 
@@ -31,9 +33,11 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. 
 
-2. Download anaconda, choose the latest download. (https://www.anaconda.com/distribution/)
+2. Download and install anaconda, choose the latest download. (https://www.anaconda.com/distribution/).
 
-3. Open anaconda prompt:
+3. Unzip our repository.
+
+4. Open anaconda prompt:
    1. Indicate where you have saved the folder by typing: CD C:\Users\Username\Downloads\IE-Maps-master\IEMAPS (document path)         and then press ENTER
    2. To open the file type: python IEMAPS.py and then press ENTER
 
