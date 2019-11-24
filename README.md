@@ -19,11 +19,12 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
-2. Download and install python version 3.8.0. (https://www.python.org/downloads/mac-osx/).
+2. Download python version 3.8.0 and then open the downloaded file in order to install. 
+(https://www.python.org/downloads/mac-osx/).
 
 3. Unzip our repository.
 
-4. Open terminal within your laptop:
+4. Open terminal within your laptop(look for it in finder by pressing command space bar):
    1. Indicate where you have saved the folder by typing: cd ~/Downloads/IE-Maps-master/IEMAPS (or folder where you have the           folder) and then press ENTER
    2. To open the file type: python IEMAPS.py and then press ENTER
 
@@ -33,7 +34,7 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 
 1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
-2. Download and install anaconda, choose the latest download and keep the default options. (https://www.anaconda.com/distribution/).
+2. Download anaconda and then open the downloaded file in order to install, choose the latest download and keep the default options. (https://www.anaconda.com/distribution/).
 
 3. Unzip our repository.
 
