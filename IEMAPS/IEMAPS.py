@@ -71,16 +71,16 @@ import requests
 from io import BytesIO
 from urllib.request import urlopen
 while True:
-  building = input("Which building are you in <PV, MM31, MM31BIS, MM11, MM12, MM15, VE130, PINAR15, PINAR18, CP, SERR99, SERR105>? ")
+  building = input("Which building are you in <PV, MM31, MM31BIS, MM11, MM12, MM15, VE130, PINAR15, PINAR18, CP, SERR99, SERR105>? \n")
   if ((building != "PV") and (building != "MM31") and (building != "MM31BIS") and (building != "MM11") and (building != "MM12") and (building != "MM15") and (building != "VE130") and (building != "PINAR15") and (building != "PINAR18") and (building != "CP") and (building != "SERR99") and (building != "SERR105")):
     print("Please enter one of the buildings")
   elif building == "PV":
-    need = input("What are you looking for <food&drinks, other_buildings, study_tables, classrooms, toilets, faculty_offices, printers>? ")
+    need = input("What are you looking for <food&drinks, other_buildings, study_tables, classrooms, toilets, faculty_offices, printers>?  \n")
     # Food&drinks
     if need == "food&drinks":
-      food_drinks = input("What are you looking for <vending_machine, water_fountain>? ")
+      food_drinks = input("What are you looking for <vending_machine, water_fountain>?  \n")
       if food_drinks == "vending_machine":
-        vending_machineq = input("What are you looking for <drinks, snacks, coffee>? ")
+        vending_machineq = input("What are you looking for <drinks, snacks, coffee>?  \n")
         if vending_machineq == "drinks":
           print("Go to", pv.get("drinks"))
         elif vending_machineq == "snacks":
@@ -96,7 +96,7 @@ while True:
 
    # Other buildings
     elif need == "other_buildings":
-      other_buildings = input("What are you looking for <mm31, mm31bis, mm11, mm12, mm15, ve130, pinar15, pinar18, cp, serr99, serr105>? ")
+      other_buildings = input("What are you looking for <mm31, mm31bis, mm11, mm12, mm15, ve130, pinar15, pinar18, cp, serr99, serr105>?  \n")
       if other_buildings == "mm31":
         img_pv_mm31 = Image.open(urlopen('https://i.imgur.com/6IVV6LX.jpg'))
         img_pv_mm31 = img_pv_mm31.save("./img_pv_mm31.jpg")
@@ -132,7 +132,7 @@ while True:
       elif other_buildings == "cp":
         img_pv_cp = Image.open(urlopen('https://i.imgur.com/XgOfC8B.jpg'))
         img_pv_cp = img_pv_cp.save("./img_pv_cp.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "serr99":
         img_pv_serr99 = Image.open(urlopen('https://i.imgur.com/6nWSgns.jpg'))
         img_pv_serr99 = img_pv_serr99.save("./img_pv_serr99.jpg")
@@ -150,7 +150,7 @@ while True:
 
     # Classrooms
     elif need == "classrooms":
-      classroomsq = input("What are you looking for <pv101-102, pv201-202, pv301, design_studio>? ")
+      classroomsq = input("What are you looking for <pv101-102, pv201-202, pv301, design_studio>?  \n")
       if classroomsq == "pv101-102":
         print("Go to", pv.get("pv101-102"))
       elif classroomsq == "pv201-202":
@@ -168,19 +168,19 @@ while True:
 
     # Faculty offices
     elif need == "faculty_offices":
-      faculty_officesq = input("What are you looking for <offices, services>? ")
+      faculty_officesq = input("What are you looking for <offices, services>?  \n")
       if faculty_officesq == "offices":
-        officesq = input("What are you looking for <professors, degrees>? ")
+        officesq = input("What are you looking for <professors, degrees>?  \n")
         if officesq == "professors":
-          professors =  input("What are you looking for <Bernadette_Bullinger, Isabel_de_Sivatte, Maya_Kumar, Mariano_Mastrogiorgio, Andrew_Bertoli, Daniel_Flynn, Johanna_Glauber, Stephanie_Lackner, Carlos_Lastra, Irene_Menéndez>? ")
+          professors =  input("What are you looking for <Bernadette_Bullinger, Isabel_de_Sivatte, Maya_Kumar, Mariano_Mastrogiorgio, Andrew_Bertoli, Daniel_Flynn, Johanna_Glauber, Stephanie_Lackner, Carlos_Lastra, Irene_Menéndez>?  \n")
           print("Go to", pv.get("professors"))
         elif officesq == "degrees":
-          degrees = input("What are you looking for <Law_Office, BBA_faculty, International_Relations_Faculty_Office, IE_Business_School_Humanities_Program, Saudi_spanish_center_for_Islamic_Economics_and_Finance>? ")
+          degrees = input("What are you looking for <Law_Office, BBA_faculty, International_Relations_Faculty_Office, IE_Business_School_Humanities_Program, Saudi_spanish_center_for_Islamic_Economics_and_Finance>?  \n")
           print("Go to", pv.get("degrees"))
         else:
           print("Option not available. Make sure you've typed the words as shown above.")
       elif faculty_officesq == "services":
-        servicesq = input("What are you looking for <full_time_faculty_meeting_room, teacher's_office, mentorship_society>? ")
+        servicesq = input("What are you looking for <full_time_faculty_meeting_room, teacher's_office, mentorship_society>?  \n")
         if servicesq == "full_time_faculty_meeting_room" or services == "mentorship_society":
           print("Go to", pv.get("mentorship_society"))
         elif servicesq == "teacher's_office":
@@ -199,10 +199,10 @@ while True:
   elif ((building == "MM31") or (building == "MM31BIS") or (building == "MM11") or (building == "MM12") or (building == "MM15") or (building == "VE130") or (building == "PINAR15") or (building == "PINAR18") or (building == "CP") or (building == "SERR99") or (building == "SERR105")):
     print("Sorry building not available at the moment.")
    # Suggesting to run the program again
-  cont = input("Do you want to look for something else <yes/no>? ")
+  cont = input("Do you want to look for something else <yes/no>?  \n")
   if ((cont != "yes") and (cont != "no")):
     print("Please enter <yes> or <no>")
   while cont.lower() not in ("yes","no"):
-      cont = input("Do you want to look for something else <yes/no>? ")
+      cont = input("Do you want to look for something else <yes/no>?  \n")
   if cont == "no":
       break
