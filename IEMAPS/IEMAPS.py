@@ -94,53 +94,53 @@ while True:
       else:
           print("Option not available. Make sure you've typed the words as shown above.")
 
-    # Other buildings
+   # Other buildings
     elif need == "other_buildings":
       other_buildings = input("What are you looking for <mm31, mm31bis, mm11, mm12, mm15, ve130, pinar15, pinar18, cp, serr99, serr105>? ")
       if other_buildings == "mm31":
         img_pv_mm31 = Image.open(urlopen('https://i.imgur.com/6IVV6LX.jpg'))
-        img_pv_mm31 = img_pv_mm31.save("./MAPS/img_pv_mm31.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_mm31 = img_pv_mm31.save("./img_pv_mm31.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "mm31bis":
         img_pv_mm31b = Image.open(urlopen('https://i.imgur.com/2Ec4OvA.jpg'))
-        img_pv_mm31b =img_pv_mm31b.save("./MAPS/img_pv_mm31b.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_mm31b =img_pv_mm31b.save("./img_pv_mm31b.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "mm11":
         img_pv_mm11 = Image.open(urlopen('https://i.imgur.com/1bas2h2.jpg'))
-        img_pv_mm11 = img_pv_mm11.save("./MAPS/img_pv_mm11.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_mm11 = img_pv_mm11.save("./img_pv_mm11.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "mm12":
         img_pv_mm12 = Image.open(urlopen('https://i.imgur.com/XtuNBdE.jpg'))
-        img_pv_mm12 = img_pv_mm12.save("./MAPS/img_pv_mm12.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_mm12 = img_pv_mm12.save("./img_pv_mm12.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "mm15":
         img_pv_mm15 = Image.open(urlopen('https://i.imgur.com/7WcIESG.jpg'))
-        img_pv_mm15 = img_pv_mm15.save("./MAPS/img_pv_mm15.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_mm15 = img_pv_mm15.save("./img_pv_mm15.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "ve130":
         img_pv_ve130 = Image.open(urlopen('https://i.imgur.com/3qONTYX.jpg'))
-        img_pv_ve130 = img_pv_ve130.save("./MAPS/img_pv_ve130.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_ve130 = img_pv_ve130.save("./img_pv_ve130.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "pinar15":
         img_pv_pinar15 = Image.open(urlopen('https://i.imgur.com/a6mh8d4.jpg'))
-        img_pv_pinar15 = img_pv_pinar15.save("./MAPS/img_pv_pinar15.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_pinar15 = img_pv_pinar15.save("./img_pv_pinar15.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "pinar18":
         img_pv_pinar18 = Image.open(urlopen('https://i.imgur.com/4EpufIp.jpg'))
-        img_pv_pinar18 = img_pv_pinar18.save("./MAPS/img_pv_pinar18.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_pinar18 = img_pv_pinar18.save("./img_pv_pinar18.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "cp":
         img_pv_cp = Image.open(urlopen('https://i.imgur.com/XgOfC8B.jpg'))
-        img_pv_cp = img_pv_cp.save("./MAPS/img_pv_cp.jpg")
+        img_pv_cp = img_pv_cp.save("./img_pv_cp.jpg")
         print("The image of the map has been saved in the 'MAPS' folder in the repository.")
       elif other_buildings == "serr99":
         img_pv_serr99 = Image.open(urlopen('https://i.imgur.com/6nWSgns.jpg'))
-        img_pv_serr99 = img_pv_serr99.save("./MAPS/img_pv_serr99.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_serr99 = img_pv_serr99.save("./img_pv_serr99.jpg")
+        print("The image of the map has been saved in the repository.")
       elif other_buildings == "serr105":
         img_pv_serr105 = Image.open(urlopen('https://i.imgur.com/XJMFHyl.jpg'))
-        img_pv_serr105 = img_pv_serr105.save("./MAPS/img_pv_serr105.jpg")
-        print("The image of the map has been saved in the 'MAPS' folder in the repository.")
+        img_pv_serr105 = img_pv_serr105.save("./img_pv_serr105.jpg")
+        print("The image of the map has been saved in the repository.")
       else:
           print("Option not available. Make sure you've typed the words as shown above.")
 
@@ -195,8 +195,10 @@ while True:
       print("Go to", pv.get("printers")[0:7], "or to", pv.get("printers")[9:16])
     else:
       print("Option not available. Make sure you've typed the words as shown above.")
+   #Preventing Errors
   elif ((building == "MM31") or (building == "MM31BIS") or (building == "MM11") or (building == "MM12") or (building == "MM15") or (building == "VE130") or (building == "PINAR15") or (building == "PINAR18") or (building == "CP") or (building == "SERR99") or (building == "SERR105")):
     print("Sorry building not available at the moment.")
+   # Suggesting to run the program again
   cont = input("Do you want to look for something else <yes/no>? ")
   if ((cont != "yes") and (cont != "no")):
     print("Please enter <yes> or <no>")
