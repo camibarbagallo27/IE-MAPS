@@ -39,7 +39,8 @@ IE Maps is all about solving the issue of when new students get to IE or when th
 3. Unzip our repository.
 
 4. Open anaconda prompt (it can be found in the file browser of your computer):
-   1. Indicate where you have saved the folder by typing: "cd C:\Users\<insert your username>\Downloads\IE-Maps-                master\IEMAPS" (this should be your document path) and then press ENTER
+   1. Indicate where you have saved the folder by typing: 
+   "cd C:\Users\<insert your username>\Downloads\IE-Maps-master\IEMAPS" (this should be your document path) and then press ENTER
    2. To open the file type: "python IEMAPS.py" and then press ENTER
 
 5. Now start using our program!
